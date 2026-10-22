@@ -1,0 +1,32 @@
+# Python: entornos, bytecode y herramientas de prueba
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
+
+# Node, Angular y resultados generados
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Sistemas operativos y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Registros y archivos temporales
+*.log
+*.tmp
