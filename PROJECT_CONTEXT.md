@@ -4,7 +4,7 @@ Este documento reúne las decisiones narrativas, visuales y de producto que conv
 
 ## Propósito
 
-Crear una pequeña biblioteca digital de cuentos ilustrados para compartir entre Emma y su familia. La app ayuda a elegir una historia y leerla juntos en voz alta; no es un generador configurable. Emma es siempre la protagonista y el catálogo publicado contiene exactamente diez cuentos.
+Crear una pequeña biblioteca digital de cuentos ilustrados para compartir entre Emma y su familia. La app ayuda a elegir una historia y leerla juntos en voz alta; no es un generador configurable. Emma es siempre la protagonista y el catálogo publicado contiene un libro de presentación, «Mi familia», seguido de diez cuentos.
 
 ## Público y experiencia de lectura
 
@@ -78,6 +78,6 @@ Los originales Markdown viven en `stories/`. Cada archivo usa un `id` de minúsc
 ## Decisiones de producto que no deben perderse
 
 - Emma es fija; no añadir un campo para cambiar el nombre de la protagonista.
-- La colección muestra exactamente diez cuentos, con menú ordenado como el catálogo anterior.
+- La colección muestra «Mi familia» en primer lugar y después los diez cuentos, con menú ordenado como el catálogo anterior.
 - No subir ni desplegar los cambios antes de que el usuario revise el resultado local.
 - Al ampliar o reescribir un cuento, actualizar sus tres escenas, textos alternativos y pregunta familiar junto con el Markdown.

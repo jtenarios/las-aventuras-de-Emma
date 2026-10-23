@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Component, ElementRef, ViewChild, inject, signal } from '@angular/core';
 
 interface StoryIllustration {
-  position: 'start' | 'middle' | 'end';
+  position: 'start' | 'middle' | 'end' | 'portrait';
   afterParagraph: number;
   src: string;
   alt: string;
@@ -11,6 +11,7 @@ interface StoryIllustration {
 interface StoryOption {
   id: string;
   order: number;
+  kind?: 'intro';
   title: string;
   value: string;
   paragraphs: string[];
@@ -39,13 +40,13 @@ export class App {
   @ViewChild('book') private bookRef?: ElementRef<HTMLElement>;
   private readonly http = inject(HttpClient);
   readonly options = signal<StoryOption[]>([]);
-  readonly selectedId = signal('kite');
+  readonly selectedId = signal('mi-familia');
   readonly story = signal<Story | null>(null);
   readonly pageIndex = signal(0);
   readonly error = signal('');
   readonly readingStyle = signal<'print' | 'uppercase' | 'cursive'>('cursive');
   readonly showFontTip = signal(true);
-  readonly optionIcons = ['🪁', '🔎', '🍃', '🥾', '✨', '🐸', '🌳', '🐌', '🌙', '🔘'];
+  readonly optionIcons = ['🏡', '🪁', '🔎', '🍃', '🥾', '✨', '🐸', '🌳', '🐌', '🌙', '🔘'];
   private readonly fontTipKey = 'emma-font-tip-seen-v1';
 
   constructor() {
@@ -68,6 +69,19 @@ export class App {
   createStory(): void {
     const selected = this.options().find((option) => option.id === this.selectedId());
     if (!selected) return;
+
+    if (selected.kind === 'intro') {
+      const pages: StoryPage[] = [
+        { blocks: this.familyBlocks(selected, 0, 2) },
+        { blocks: this.familyBlocks(selected, 2, 4) },
+        { blocks: this.familyBlocks(selected, 4, selected.paragraphs.length) },
+      ];
+      this.story.set({ ...selected, pages });
+      this.pageIndex.set(0);
+      this.error.set('');
+      this.scrollToBook();
+      return;
+    }
 
     const start = selected.illustrations.find((image) => image.position === 'start');
     const middle = selected.illustrations.find((image) => image.position === 'middle');
@@ -97,6 +111,16 @@ export class App {
     this.pageIndex.set(0);
     this.error.set('');
     this.scrollToBook();
+  }
+
+  private familyBlocks(selected: StoryOption, from: number, to: number): StoryBlock[] {
+    const blocks: StoryBlock[] = [];
+    for (let index = from; index < to; index++) {
+      blocks.push({ type: 'paragraph', text: selected.paragraphs[index] });
+      const portrait = selected.illustrations.find((image) => image.afterParagraph === index + 1);
+      if (portrait) blocks.push({ type: 'image', image: portrait });
+    }
+    return blocks;
   }
 
   selectStory(id: string): void {

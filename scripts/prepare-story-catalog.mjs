@@ -55,6 +55,32 @@ for (const file of files) {
 
 if (files.length !== 10) throw new Error(`El catálogo debe contener exactamente 10 cuentos; hay ${files.length}.`);
 stories.sort((a, b) => a.order - b.order || a.id.localeCompare(b.id, 'es'));
+
+const familySource = await readFile(join(root, 'books', 'mi-familia.md'), 'utf8');
+const familySections = familySource.trim().split(/\r?\n\s*\r?\n/);
+const familyTitle = familySections.shift()?.replace(/^#\s+/, '').trim();
+const familyParagraphs = [];
+const familyIllustrations = [];
+let familyQuestion = '';
+for (const section of familySections) {
+  const portrait = section.match(/^!\[([^\]]+)\]\(\.\.\/frontend\/public\/(characters\/[^)]+)\)$/);
+  if (portrait) {
+    await access(join(root, 'frontend', 'public', portrait[2]));
+    familyIllustrations.push({ position: 'portrait', afterParagraph: familyParagraphs.length, src: portrait[2], alt: portrait[1] });
+  } else if (section.startsWith('**Para conversar:**')) {
+    familyQuestion = section.replace('**Para conversar:**', '').trim();
+  } else {
+    familyParagraphs.push(section);
+  }
+}
+if (!familyTitle || familyParagraphs.length !== 5 || familyIllustrations.length !== 4 || !familyQuestion) {
+  throw new Error('books/mi-familia.md: se esperan título, cinco párrafos, cuatro retratos y pregunta');
+}
+stories.unshift({
+  id: 'mi-familia', order: 0, kind: 'intro', title: familyTitle,
+  value: 'Nuestra familia', paragraphs: familyParagraphs,
+  question: familyQuestion, illustrations: familyIllustrations,
+});
 await mkdir(catalogDirectory, { recursive: true });
 await writeFile(join(catalogDirectory, 'index.json'), `${JSON.stringify(stories, null, 2)}\n`, 'utf8');
-console.log(`Catálogo listo: ${stories.length} cuentos.`);
+console.log(`Catálogo listo: 1 libro de presentación y ${files.length} cuentos.`);

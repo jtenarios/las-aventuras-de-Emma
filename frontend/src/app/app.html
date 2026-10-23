@@ -13,7 +13,7 @@
 
   <div class="layout">
     <section class="chooser" aria-label="Elegir cuento">
-      <p class="field-label story-label">Elige una aventura de Emma</p>
+      <p class="field-label story-label">Elige un libro de Emma</p>
       <div class="story-options">
         @for (option of options(); track option.id; let i = $index) {
           <button
@@ -33,10 +33,10 @@
       </div>
 
       <button class="primary-button" type="button" (click)="createStory()" [disabled]="!options().length">
-        Leer esta aventura
+        Leer este libro
         <span aria-hidden="true">→</span>
       </button>
-      <p class="privacy-note"><span aria-hidden="true">♡</span> Diez aventuras para leer juntos.</p>
+      <p class="privacy-note"><span aria-hidden="true">♡</span> Conoce a la familia y disfruta de diez aventuras.</p>
       @if (error()) {
         <p class="error" role="alert">{{ error() }}</p>
       }
@@ -69,7 +69,7 @@
               @if (block.type === 'paragraph') {
                 <p>{{ block.text }}</p>
               } @else {
-                <figure class="story-illustration" [class.illustration-start]="block.image.position === 'start'" [class.illustration-middle]="block.image.position === 'middle'" [class.illustration-end]="block.image.position === 'end'">
+                <figure class="story-illustration" [class.illustration-start]="block.image.position === 'start'" [class.illustration-middle]="block.image.position === 'middle'" [class.illustration-end]="block.image.position === 'end'" [class.illustration-portrait]="block.image.position === 'portrait'">
                   <img [src]="block.image.src" [alt]="block.image.alt" loading="eager" />
                 </figure>
               }
