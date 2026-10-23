@@ -11,4 +11,13 @@
 .reading-uppercase h2,.reading-uppercase .story-copy{text-transform:uppercase}
 .reading-cursive h2,.reading-cursive .story-copy{font-family:'Edu NSW ACT Cursive',cursive;font-weight:400}
 .reading-cursive .story-copy{font-size:21px;line-height:1.75}
+.story-options{max-height:560px;overflow-y:auto;padding:2px 4px 2px 2px;scrollbar-color:#c6d4ba transparent;scrollbar-width:thin}
+.story-option{min-height:64px}
+.story-illustration{margin:24px 0 27px;overflow:hidden;border-radius:14px;background:#f4efe3;box-shadow:0 8px 20px #49331810}
+.story-illustration img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
+.question-prompt{margin:27px 0 8px;padding:17px 20px;border-left:3px solid #8da67d;border-radius:0 12px 12px 0;background:#f5f7ef}
+.question-prompt span{font:800 11px Arial,sans-serif;letter-spacing:.7px;text-transform:uppercase;color:#69815e}
+.question-prompt p{font-family:'Andika',Arial,sans-serif;font-size:16px;line-height:1.6;color:#455342;margin:7px 0 0}
+@media(max-width:800px){.story-options{max-height:430px}.story-illustration{margin:21px 0 24px}}
+@media(max-width:520px){.story-options{max-height:390px}.story-illustration{margin:18px 0 21px;border-radius:11px}.question-prompt{padding:14px 16px}.question-prompt p{font-size:15px}}
 @media(max-width:520px){.book-heading{align-items:flex-start;flex-direction:column}.reading-style{justify-content:flex-start;width:100%;gap:5px}.reading-style button{padding:7px 9px}.reading-cursive .story-copy{font-size:20px}}

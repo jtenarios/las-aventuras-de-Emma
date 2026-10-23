@@ -13,17 +13,7 @@
 
   <div class="layout">
     <section class="chooser" aria-label="Elegir cuento">
-      <label class="field-label" for="child-name">¿Para quién es el cuento?</label>
-      <input
-        id="child-name"
-        class="name-input"
-        [ngModel]="childName()"
-        (ngModelChange)="childName.set($event)"
-        [ngModelOptions]="{ standalone: true }"
-        maxlength="24"
-      />
-
-      <p class="field-label story-label">Elige una aventura</p>
+      <p class="field-label story-label">Elige una aventura de Emma</p>
       <div class="story-options">
         @for (option of options(); track option.id; let i = $index) {
           <button
@@ -32,7 +22,7 @@
             [class.is-selected]="selectedId() === option.id"
             (click)="selectStory(option.id)"
           >
-            <span class="option-icon" aria-hidden="true">{{ ['🪁', '🍃', '🥾'][i] }}</span>
+            <span class="option-icon" aria-hidden="true">{{ optionIcons[i] || '📖' }}</span>
             <span class="option-text">
               <strong>{{ option.title }}</strong>
               <small>{{ option.value }}</small>
@@ -42,11 +32,11 @@
         }
       </div>
 
-      <button class="primary-button" type="button" (click)="createStory()" [disabled]="loading() || !options().length">
-        {{ loading() ? 'Preparando…' : 'Leer esta aventura' }}
+      <button class="primary-button" type="button" (click)="createStory()" [disabled]="!options().length">
+        Leer esta aventura
         <span aria-hidden="true">→</span>
       </button>
-      <p class="privacy-note"><span aria-hidden="true">♡</span> El cuento se prepara en tu ordenador.</p>
+      <p class="privacy-note"><span aria-hidden="true">♡</span> Diez aventuras para leer juntos.</p>
       @if (error()) {
         <p class="error" role="alert">{{ error() }}</p>
       }
@@ -65,10 +55,25 @@
         </div>
         <h2>{{ currentStory.title }}</h2>
         <div class="story-copy">
-          @for (paragraph of currentStory.paragraphs; track $index) {
-            <p>{{ paragraph }}</p>
+          @for (block of currentStory.blocks; track $index) {
+            @if (block.type === 'paragraph') {
+              <p>{{ block.text }}</p>
+            } @else {
+              <figure
+                class="story-illustration"
+                [class.illustration-start]="block.position === 'start'"
+                [class.illustration-middle]="block.position === 'middle'"
+                [class.illustration-end]="block.position === 'end'"
+              >
+                <img [src]="block.src" [alt]="block.alt" [attr.loading]="block.position === 'start' ? 'eager' : 'lazy'" />
+              </figure>
+            }
           }
         </div>
+        <aside class="question-prompt">
+          <span>Para conversar</span>
+          <p>{{ currentStory.question }}</p>
+        </aside>
         <p class="book-end">✦ &nbsp; Fin &nbsp; ✦</p>
       } @else {
         <div class="empty-book">
@@ -81,5 +86,5 @@
       }
     </section>
   </div>
-  <footer>Historias cortas, palabras sencillas y mucho cariño.</footer>
+  <footer>Historias para imaginar, conversar y leer en familia.</footer>
 </main>

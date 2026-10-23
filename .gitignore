@@ -30,3 +30,6 @@ Thumbs.db
 # Registros y archivos temporales
 *.log
 *.tmp
+.wrangler/
+
+frontend/public/stories/index.json

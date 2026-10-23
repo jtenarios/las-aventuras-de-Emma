@@ -1,0 +1,16 @@
+{
+  "$schema": "./frontend/node_modules/wrangler/config-schema.json",
+  "name": "las-aventuras-de-emma",
+  "main": "./worker/index.js",
+  "compatibility_date": "2026-10-23",
+  "workers_dev": false,
+  "route": {
+    "pattern": "jymy.dev/cuentos*",
+    "zone_name": "jymy.dev"
+  },
+  "assets": {
+    "directory": "./dist/worker",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page"
+  }
+}
