@@ -7,44 +7,42 @@ question: ¿Qué juego inventarías para que todos pudieran participar?
 imageStart: everyone-inicio.webp
 altStart: Emma llega a un claro del bosque con una pelota mientras varios animales juegan separados.
 imageMiddle: everyone-medio.webp
-altMiddle: Emma conversa con una tortuga y una familia de erizos junto a la pelota atascada.
+altMiddle: Emma juega con una pelota de ramitas junto a la tortuga y dos erizos.
 imageEnd: everyone-fin.webp
 altEnd: Animales y familia juegan juntos en el claro bajo guirnaldas de hojas.
 ---
-Emma llevó su pelota nueva al claro del bosque. Quería jugar al rebote contra el tronco grande, su juego favorito.
+Emma llegó al claro del bosque con su pelota rosa. Quería hacerla rebotar contra el tronco grande, su juego favorito.
 
-Pero el claro estaba lleno. Unas ardillas jugaban a perseguirse. Dos erizos construían una torre de piñas. Una tortuga miraba desde la sombra, sin jugar con nadie.
+Allí había dos ardillas, dos erizos y una tortuga. Las ardillas corrían de árbol en árbol. Los erizos levantaban una torre de piñas. La tortuga observaba desde la sombra.
 
-Emma hizo rebotar la pelota. ¡Pum! Rodó hasta los erizos y derribó la torre.
+Emma lanzó la pelota. ¡Pum! Rebotó más lejos de lo esperado y derribó la torre.
 
-—¡Lo siento! —dijo Emma.
+—¡Perdón! —dijo Emma, recogiendo las piñas.
 
-—No pasa nada —respondió uno de los erizos—. Pero no todos podemos correr tan rápido como las ardillas.
+—No pasa nada —respondió un erizo—. Nuestra torre ya tenía ganas de tumbarse.
 
-Emma miró la pelota y luego miró a la tortuga.
+Emma invitó a todos a jugar. La pelota rosa saltaba demasiado para la tortuga, y las ardillas llegaban a ella antes de que los erizos dieran un paso.
 
-—¿Quieres jugar conmigo?
+—A este ritmo, me toca en mi próximo cumpleaños —dijo la tortuga. Emma dejó la pelota en su mochila y buscó una idea distinta.
 
-—Sí —dijo la tortuga—. Pero necesito un juego que no termine antes de que llegue.
+Los erizos encontraron ramitas caídas. Emma las trenzó con ayuda de una ardilla hasta hacer una bola ligera que rodaba despacio. —Esta sí espera a quien la sigue —dijo.
 
-Emma pensó. Propuso lanzar la pelota de uno a otro, pero la tortuga no alcanzaba a atraparla. Probó a hacerla rodar, pero las ardillas se adelantaban y la cogían antes.
+Pusieron dos piñas como puerta. Emma empujó la bola con suavidad. Pasó junto a un erizo, que la desvió con el hocico hacia la tortuga.
 
-—Quizá el juego puede cambiar —dijo Emma.
+La tortuga la tocó con una pata. La bola cruzó la puerta. Nadie tuvo que correr detrás de ella como un rayo.
 
-Entre todos pusieron piñas alrededor del claro, como puertas. La pelota debía pasar por cada puerta: primero una ardilla la lanzaba suave, luego un erizo la empujaba con el hocico, y al final la tortuga la guiaba con su caparazón.
+—¡Otra vez! —pidieron los erizos. Una ardilla añadió una segunda puerta hecha con piñas y una ramita.
 
-La primera vuelta salió torcida. La pelota fue directa a un arbusto. La segunda se atascó entre dos piñas. La tercera casi llegó a la última puerta, pero faltó un empujoncito.
+La primera vuelta salió torcida: la bola acabó bajo un arbusto. En la segunda, una ardilla la lanzó tan deprisa que pasó por encima de todas las puertas.
 
-—¡Necesitamos más espacio! —dijo Mía, que acababa de llegar con mamá.
+—Creo que mi lanzamiento ha pedido permiso para despegar —dijo la ardilla, avergonzada.
 
-Los erizos movieron las piñas. Las ardillas esperaron su turno. Emma rodó la pelota despacito hacia la tortuga.
+Mía llegó con mamá Rocío y propuso separar más las puertas. Mamá sostuvo las piñas mientras las movían. —Así cabemos todos, incluso los árbitros muy importantes —dijo, guiñándole un ojo a Mía.
 
-La tortuga la tocó con el caparazón. La pelota cruzó la última puerta y chocó suavemente contra el tronco.
+En la tercera vuelta, cada uno esperó su turno. Emma rodó la bola hacia el erizo; él la empujó hacia la ardilla, y la ardilla se la dejó a la tortuga sin adelantarse.
 
-—¡Punto para todos! —gritó Emma.
+La tortuga atravesó la última puerta y levantó la cabeza. —¿He llegado? ¡Pues todavía me queda tarde para celebrarlo!
 
-Después inventaron más reglas: las piñas eran montañas, las hojas eran barcos y nadie podía repetir el mismo camino dos veces. La tortuga descubrió que era la mejor para encontrar rutas nuevas. Una ardilla resultó experta en lanzar sin fuerza. Y Emma aprendió a esperar el turno.
+Pronto inventaron rutas nuevas: rodear una flor, pasar bajo una rama y volver al tronco sin perder la bola. Mía quiso ser quien anunciara cada salida con voz de trompeta.
 
-Cuando el sol empezó a bajar, el claro parecía otro. Todos jugaban juntos, cada cual a su manera.
-
-Emma miró el tronco, su lugar de siempre, y sonrió. El juego ya no era solo suyo. Ahora el claro era de todos.
+Al marcharse, Emma guardó su pelota rosa. La bola de ramitas quedó en el claro para la siguiente partida, junto a las piñas que todos habían colocado.

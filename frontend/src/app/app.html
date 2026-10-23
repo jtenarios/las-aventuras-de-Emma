@@ -42,39 +42,56 @@
       }
     </section>
 
-    <section class="book" [class.reading-uppercase]="readingStyle() === 'uppercase'" [class.reading-cursive]="readingStyle() === 'cursive'" aria-live="polite">
+    <section #book class="book" [class.reading-uppercase]="readingStyle() === 'uppercase'" [class.reading-cursive]="readingStyle() === 'cursive'" aria-live="polite">
       @if (story(); as currentStory) {
         <div class="book-heading">
           <span class="value-badge">{{ currentStory.value }}</span>
-          <div class="reading-style" role="group" aria-label="Tipo de letra del cuento">
-            <span class="reading-style-label">Letra</span>
-            <button type="button" [class.is-active]="readingStyle() === 'print'" [attr.aria-pressed]="readingStyle() === 'print'" (click)="readingStyle.set('print')">Imprenta</button>
-            <button type="button" [class.is-active]="readingStyle() === 'uppercase'" [attr.aria-pressed]="readingStyle() === 'uppercase'" (click)="readingStyle.set('uppercase')">Mayúsculas</button>
-            <button type="button" [class.is-active]="readingStyle() === 'cursive'" [attr.aria-pressed]="readingStyle() === 'cursive'" (click)="readingStyle.set('cursive')">Ligada</button>
+          <div class="reading-style-wrap">
+            <div class="reading-style" role="group" aria-label="Tipo de letra del cuento">
+              <span class="reading-style-label">Letra</span>
+              <button type="button" [class.is-active]="readingStyle() === 'print'" [attr.aria-pressed]="readingStyle() === 'print'" (click)="setReadingStyle('print')">Imprenta</button>
+              <button type="button" [class.is-active]="readingStyle() === 'uppercase'" [attr.aria-pressed]="readingStyle() === 'uppercase'" (click)="setReadingStyle('uppercase')">Mayúsculas</button>
+              <button type="button" [class.is-active]="readingStyle() === 'cursive'" [attr.aria-pressed]="readingStyle() === 'cursive'" (click)="setReadingStyle('cursive')">Ligada</button>
+            </div>
+            @if (showFontTip()) {
+              <div class="font-tip" role="note">
+                <span>Aquí puedes cambiar la tipografía.</span>
+                <button type="button" (click)="dismissFontTip()" aria-label="Cerrar ayuda sobre la tipografía">Entendido</button>
+              </div>
+            }
           </div>
         </div>
         <h2>{{ currentStory.title }}</h2>
-        <div class="story-copy">
-          @for (block of currentStory.blocks; track $index) {
-            @if (block.type === 'paragraph') {
-              <p>{{ block.text }}</p>
-            } @else {
-              <figure
-                class="story-illustration"
-                [class.illustration-start]="block.position === 'start'"
-                [class.illustration-middle]="block.position === 'middle'"
-                [class.illustration-end]="block.position === 'end'"
-              >
-                <img [src]="block.src" [alt]="block.alt" [attr.loading]="block.position === 'start' ? 'eager' : 'lazy'" />
-              </figure>
+        @if (currentStory.pages[pageIndex()]; as currentPage) {
+          <p class="page-progress">Página {{ pageIndex() + 1 }} de {{ currentStory.pages.length }}</p>
+          <div class="story-copy">
+            @for (block of currentPage.blocks; track $index) {
+              @if (block.type === 'paragraph') {
+                <p>{{ block.text }}</p>
+              } @else {
+                <figure class="story-illustration" [class.illustration-start]="block.image.position === 'start'" [class.illustration-middle]="block.image.position === 'middle'" [class.illustration-end]="block.image.position === 'end'">
+                  <img [src]="block.image.src" [alt]="block.image.alt" loading="eager" />
+                </figure>
+              }
             }
+          </div>
+          @if (pageIndex() === currentStory.pages.length - 1) {
+            <aside class="question-prompt">
+              <span>Para conversar</span>
+              <p>{{ currentStory.question }}</p>
+            </aside>
+            <p class="book-end">✦ &nbsp; Fin &nbsp; ✦</p>
           }
-        </div>
-        <aside class="question-prompt">
-          <span>Para conversar</span>
-          <p>{{ currentStory.question }}</p>
-        </aside>
-        <p class="book-end">✦ &nbsp; Fin &nbsp; ✦</p>
+          <nav class="page-controls" aria-label="Páginas del cuento">
+            <button class="page-button" type="button" [disabled]="pageIndex() === 0" (click)="goToPage(pageIndex() - 1)">← Anterior</button>
+            <span class="page-count">{{ pageIndex() + 1 }} / {{ currentStory.pages.length }}</span>
+            @if (pageIndex() < currentStory.pages.length - 1) {
+              <button class="page-button page-button-next" type="button" (click)="goToPage(pageIndex() + 1)">Siguiente →</button>
+            } @else {
+              <button class="page-button page-button-next" type="button" (click)="goToPage(0)">Leer de nuevo ↺</button>
+            }
+          </nav>
+        }
       } @else {
         <div class="empty-book">
           <div class="sun" aria-hidden="true">☼</div>

@@ -11,52 +11,38 @@ altMiddle: Emma y Mía escuchan distintos sonidos del bosque junto al árbol ant
 imageEnd: echo-tree-fin.webp
 altEnd: Emma comparte el eco con su familia mientras cae la tarde en el bosque.
 ---
-En medio del bosque había un árbol muy viejo con un hueco redondo en el tronco. Emma se acercó y dijo:
+En medio del bosque había un árbol viejo con un hueco redondo en el tronco. Emma se acercó, apoyó una oreja junto al hueco y dijo:
 
 —¡Hola!
 
-El árbol contestó:
+—¡Hola… hola…! —devolvió el hueco. Emma dio un saltito.
 
-—¡Hola… hola… hola…!
+—¡Guarda las palabras y las devuelve! —dijo.
 
-Emma abrió mucho los ojos.
+Mía probó enseguida. —¡Soy Mía!
 
-—¡Este árbol guarda ecos!
+—¡Mía… mía…! —repitió el árbol. Mía se echó a reír. —Por fin alguien dice mi nombre tantas veces como yo.
 
-Mía probó también.
+Papá Jaime iba a saludar también cuando Emma oyó un «tic-tic-tic» que venía de arriba. Se detuvo. Aquel sonido no repetía nada.
 
-—¡Soy Mía!
+—¿Lo habéis oído? —preguntó.
 
-—¡Mía… mía… mía…! —respondió el tronco.
+Mía empezó a contar una historia sobre un árbol que hablaba. Emma escuchó primero a su hermana y luego le pidió un momento de silencio para buscar el «tic-tic».
 
-Las hermanas se rieron. Entonces Emma escuchó algo más: un «tic-tic-tic» muy bajito que no se repetía como un eco.
+En una rama, un pájaro carpintero golpeaba la corteza. —Ese no es un eco —dijo Emma—. Es un músico de verdad.
 
-—¿Lo has oído? —preguntó.
+La familia se sentó bajo el árbol sin molestar al pájaro. Mamá Rocío oyó el zumbido de unas abejas entre las flores. Papá distinguió el roce de las hojas cuando cambiaba el viento.
 
-Mía habló otra vez, pero su voz tapó el sonido. Emma esperó. El bosque pareció quedarse quieto.
+—Yo oigo algo que hace «crac» —dijo Mía. Se miró la mano: estaba apretando una hoja seca. —Ah. La orquesta me ha contratado sin avisar.
 
-«Tic-tic-tic».
+Emma quiso contar todos sus descubrimientos de golpe, pero entonces llegó un «ploc» desde el arroyo. Esperaron un poco más y oyeron un «cri-cri» cerca de una piedra.
 
-Venía de arriba. Emma miró las ramas. Un pájaro carpintero picoteaba el tronco, buscando comida.
+Sin moverla, Emma se agachó. Dos grillos cantaban bajo la hierba. Mía respondió con un «cri-cri» tan bajito que hasta ella se sorprendió.
 
-—El árbol no lo repite —dijo Emma—. Es un sonido nuevo.
+—Hagamos una última prueba —propuso mamá. Cada uno dijo una palabra frente al hueco. El árbol devolvió «bosque», «familia» y «merienda».
 
-La familia se sentó cerca, sin acercarse demasiado. Papá Jaime oyó el roce del viento. Mamá Rocío descubrió el zumbido de una abeja. Mía encontró una hoja que crujía cada vez que la movía.
+—¿Quién ha dicho merienda? —preguntó papá. Los cuatro levantaron la mano. El eco, por suerte, no señaló a nadie.
 
-Emma quería contarlo todo, pero levantó un dedo para pedir silencio. Escucharon un rato.
+Cuando el sol empezó a bajar, caminaron de regreso. El pájaro seguía picoteando y una hoja cayó a sus pies con un susurro.
 
-Un «ploc» llegó desde el arroyo. Un «fiu» se deslizó entre las ramas. Y detrás, muy suave, se oyó un «cri-cri» que parecía venir de debajo de una piedra.
-
-—¿Qué será? —susurró Mía.
-
-Emma se inclinó un poco, sin mover la piedra. Dos grillos cantaban juntos.
-
-—El bosque tiene muchas voces —dijo—. Algunas hacen eco y otras solo aparecen si esperamos.
-
-Para probarlo, cada uno dijo una palabra al árbol. El hueco las devolvió mezcladas: «hola», «familia», «bosque». Después todos guardaron silencio otra vez.
-
-El árbol no respondió con palabras. Respondió con el viento, el pájaro, los grillos y las hojas.
-
-De regreso a casa, Emma caminó sin hablar durante un trecho. No estaba aburrida. Escuchaba.
-
-Desde entonces, cada vez que encontraba algo nuevo, primero se detenía un momento. A veces la mejor aventura empezaba cuando Emma dejaba espacio para oír lo que los demás tenían que decir.
+Mía le contó a Emma qué sonido le había gustado más. Esta vez Emma no se adelantó con el suyo: esperó a que su hermana terminara y luego le habló del «tic-tic» del pájaro.

@@ -12,6 +12,8 @@ Crear una pequeña biblioteca digital de cuentos ilustrados para compartir entre
 - Duración objetivo: aproximadamente 3–5 minutos por cuento.
 - Idioma: español claro, natural y expresivo; diálogos fáciles de leer en voz alta.
 - La opción tipográfica inicial es **ligada**. Se mantienen las alternativas de imprenta y mayúsculas.
+- La lectura se divide en tres páginas por cuento, con controles **Anterior**, **Siguiente** y **Leer de nuevo**. El cambio de página devuelve la vista al inicio del libro.
+- Al abrir un cuento por primera vez, un aviso señala dónde cambiar la tipografía. Se oculta al pulsar **Entendido** o elegir una letra y se guarda esa decisión en `localStorage` del navegador (`emma-font-tip-seen-v1`); no se usan cookies.
 - Cada cuento incluye una pregunta corta para conversar o imaginar en familia.
 - La experiencia debe ser cálida, sencilla y cómoda tanto en móvil como en escritorio.
 
@@ -39,6 +41,10 @@ Usar estos archivos como referencias al crear nuevas ilustraciones para conserva
 
 - Cada historia tiene un deseo o pregunta reconocible, un pequeño obstáculo o misterio, intentos visibles y un desenlace que nace de las decisiones de Emma.
 - Incluir detalles concretos que un niño pueda imaginar, diálogo, ritmo variado y una progresión que invite a descubrir qué ocurre.
+- Hacer las aventuras **divertidas y curiosas** para niños de 6–7 años: pequeñas sorpresas, preguntas, intentos que salen regular y hallazgos que invitan a seguir leyendo.
+- Dar a Emma y a quienes la acompañen momentos y comentarios graciosos nacidos de su carácter y de la escena. Añadir de vez en cuando una observación de los adultos que haga sonreír también a quien lee en voz alta, sin depender de bromas que un niño no pueda entender.
+- Emma es la protagonista fija, pero **no hace falta reunir a toda la familia en cada cuento**. Puede vivir una aventura con Mía, con solo Jaime o Rocío, con un amigo o incluso empezar sola; incluir a cada personaje porque aporta algo a la historia.
+- Antes de cerrar un relato, leer sus tres imágenes junto al texto: objetos, ropa, personajes presentes, luz del día, lugares y acciones deben tener continuidad. Evitar soluciones que requieran objetos o recursos inexplicables en la escena; por ejemplo, no hacer aparecer una escalera en mitad del campo.
 - Las emociones pueden ser reales, pero los conflictos y peligros son amables y adecuados para lectura compartida.
 - Mostrar la idea o valor mediante acciones y relaciones; evitar cerrar con una moraleja explicada.
 - Alternar escenarios, animales, objetos y tipos de aventura para que los diez cuentos se sientan distintos.
@@ -62,8 +68,8 @@ Los originales Markdown viven en `stories/`. Cada archivo usa un `id` de minúsc
 
 - Aplicación estática Angular en `frontend/`; no depende de una API de generación de cuentos.
 - `scripts/prepare-story-catalog.mjs` valida y convierte los Markdown en `frontend/public/stories/index.json`, incluyendo párrafos, pregunta, posiciones de ilustración y textos alternativos. Exige exactamente diez relatos y comprueba que existan las tres imágenes de cada uno.
-- `frontend/src/app/app.ts` construye bloques de lectura e inserta las ilustraciones al inicio, aproximadamente a mitad y al final.
-- `frontend/src/app/app.html` presenta el menú, los controles tipográficos, el relato y la pregunta familiar.
+- `frontend/src/app/app.ts` divide el relato en tres páginas y sitúa las ilustraciones según `afterParagraph` del catálogo, para conservar su relación con la historia. También recuerda localmente si ya se vio la ayuda tipográfica.
+- `frontend/src/app/app.html` presenta el menú, los controles tipográficos con su aviso inicial, las páginas del relato y la pregunta familiar al final.
 - `frontend/src/styles.css` contiene estilos globales, de lectura y adaptación a distintos tamaños de pantalla.
 - Para probar localmente: desde `frontend/`, ejecutar `npm ci` una vez y después `npm start`; la app queda disponible en `http://localhost:4200`.
 - Para compilar el sitio estático: desde `frontend/`, ejecutar `npm run build`; la compilación de producción establece `/cuentos/` como base para Cloudflare.

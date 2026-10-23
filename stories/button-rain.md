@@ -7,46 +7,42 @@ question: ¿Qué objeto cotidiano convertirías en algo extraordinario?
 imageStart: button-rain-inicio.webp
 altStart: Emma encuentra botones de colores caídos en el patio después de una lluvia.
 imageMiddle: button-rain-medio.webp
-altMiddle: Emma y su familia imaginan usos distintos para los botones mientras los clasifican.
+altMiddle: Emma y su familia convierten botones y cartón en un barco, un teatro y un tren.
 imageEnd: button-rain-fin.webp
 altEnd: Una colorida exposición de inventos con botones ocupa el patio de la casa.
 ---
-Al terminar la lluvia, Emma abrió la puerta del patio. En el suelo había botones por todas partes: grandes, pequeños, redondos, cuadrados, azules, dorados y uno con forma de flor.
+Cuando dejó de llover, Emma y Mía salieron al patio. Entre los charcos había botones de todos los colores, como pequeñas monedas que no servían para comprar nada.
 
-—¡Han llovido botones! —exclamó Mía.
+—¡Han llovido botones! —gritó Mía.
 
-Las hermanas recogieron algunos y los pusieron en una caja. ¿De dónde habrían salido? No había ropa tendida ni cajones abiertos.
+—Menos mal que no han llovido abrigos enteros —dijo Emma. Recogieron los botones para que ninguno acabara en la rejilla del desagüe.
 
-Emma vio un botón verde rodando hacia la fuente. Lo atrapó antes de que cayera.
+Uno azul flotaba en un charco. Otro rojo había llegado hasta una maceta. Emma vio una fila de botones que seguía hacia el cobertizo.
 
-—Podríamos devolverlos —dijo.
+Mamá Rocío revisó los abrigos y papá Jaime miró sus camisas. Todos conservaban sus botones.
 
-Mamá Rocío revisó los abrigos. Papá Jaime miró las camisas. Ninguno había perdido botones. Mía sostuvo uno violeta junto a su oreja.
+—Qué pena —dijo papá—. Si esta lluvia encontrara mis calcetines perdidos, sería perfecta.
 
-—¿Y si son fichas para hablar con las flores?
+Emma siguió el rastro. En el cobertizo, una caja vieja de costura estaba ladeada en un estante. El viento había abierto la tapa y la lluvia había llevado los botones hasta el patio.
 
-Emma se rió. Luego tuvo una idea: separarían los botones por tamaño y color para descubrir si formaban un dibujo.
+—Ya sabemos de dónde vienen —dijo—. Ahora hay que decidir adónde van.
 
-Los pequeños fueron a una bandeja. Los brillantes, a otra. Los que tenían agujeros grandes, a una tercera. Al colocarlos en el suelo, apareció una curva azul, luego una amarilla. Parecía un camino.
+Llevaron la caja dentro, secaron los botones y los separaron en bandejas. Mamá reservó los que servirían para arreglar ropa; con los demás, papá puso cartón y pegamento sobre la mesa.
 
-Emma y Mía lo siguieron hasta el cobertizo. Allí encontraron una caja vieja con un agujero en una esquina. Dentro había más botones y un carrete de hilo vacío.
+Emma colocó varios botones azules en un barco de cartón. —Son ojos de buey. Desde aquí los peces podrán mirar a los marineros.
 
-—¡La caja se rompió y el viento los trajo! —dijo Emma.
+Mía eligió dos botones para un teatro pequeño. Sus dedos, escondidos detrás de una cortina de papel, dieron voz a un conejo y a un ratón.
 
-Ya sabían de dónde venían. Pero ¿qué harían con tantos botones? Papá sugirió guardarlos. Mamá propuso coser los que hicieran falta. Mía quería construir un collar para una muñeca.
+—Señoras y señores —anunció Mía—, la función empieza cuando termine de buscar al ratón.
 
-Emma puso un botón grande sobre la mesa.
+Papá ayudó a montar un tren con ruedas de botones. Al probarlo, una rueda salió rodando por la mesa. —Control de billetes —dijo, persiguiéndola.
 
-—Este podría ser un volante.
+Mamá pegó botones con forma de flor en una casa de cartón. Emma añadió una puerta, ventanas y un tejado cubierto de botones rosas.
 
-Con cartón hicieron un barco de botones. Con una caja pequeña inventaron un teatro para dedos. Los botones planos se convirtieron en ruedas para un tren de papel; los de flor, en ventanas para una casa de cartón.
+Cuando el patio se secó, llevaron allí sus inventos. El barco viajaba a la isla de los calcetines perdidos; el tren llevaba semillas al jardín, y en la casa podían vivir los personajes del teatro.
 
-Cuando terminaron, el patio parecía una exposición de inventos. Cada objeto tenía una historia: el barco viajaba a una isla de calcetines, el tren llevaba semillas al jardín y la casa de botones recibía a las muñecas.
+Mía pidió una entrada para verlo todo. Emma le entregó un botón grande. —Con esto puedes subir al tren y asistir a la función.
 
-Emma guardó los botones que no habían usado en un frasco bien cerrado. Ya no eran una lluvia misteriosa. Eran posibilidades esperando una idea.
+Guardaron en un frasco cerrado los botones que quedaban. Una gota cayó del tejado e hizo «plin» sobre la tapa.
 
-Antes de entrar, una gota cayó del tejado y sonó «plin» contra la caja. Mía miró al cielo.
-
-—¡Espero que mañana lluevan galletas!
-
-Emma se rió. Para eso, pensó, tendrían que inventar otro cuento.
+—¿Mañana lloverán galletas? —preguntó Mía. Papá miró al cielo. —Avisadme si empieza. Esta vez salgo con un plato.

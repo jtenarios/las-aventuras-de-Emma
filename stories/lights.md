@@ -7,44 +7,40 @@ question: ¿Qué pequeño paso ayudaría a alguien que siente miedo?
 imageStart: lights-inicio.webp
 altStart: Emma y su familia ven pequeñas luces apagadas entre los árboles al atardecer.
 imageMiddle: lights-medio.webp
-altMiddle: Emma se acerca con una linterna a una luciérnaga atrapada entre hojas mojadas.
+altMiddle: Emma alumbra con un farol a una luciérnaga bajo hojas mojadas.
 imageEnd: lights-fin.webp
 altEnd: Las luciérnagas iluminan el bosque mientras Emma camina tranquila junto a su familia.
 ---
-Al atardecer, Emma y su familia volvieron del paseo por el bosque. De pronto, el sendero quedó más oscuro de lo esperado. Las luciérnagas, que normalmente encendían puntitos verdes entre los árboles, no brillaban.
+Había llovido por la tarde y el bosque olía a hojas mojadas. Emma, Mía, mamá Rocío y papá Jaime volvían por el sendero conocido cuando empezó a oscurecer.
 
-—Parece que todas se han dormido —dijo Mía.
+Normalmente veían luciérnagas entre los árboles. Aquella vez había varias quietas sobre las hojas, con la luz tan débil que casi no se distinguía.
 
-Emma apretó la mano de mamá. Una rama crujió a lo lejos. Emma sintió que las orejas se le pegaban al pelo.
+—¿Se les habrá acabado la batería? —preguntó Mía.
 
-—¿Y si nos hemos perdido? —preguntó.
+Una rama crujió y Emma se acercó a mamá. Las sombras hacían que los arbustos parecieran gigantes con los brazos abiertos.
 
-Papá encendió la linterna. El camino seguía allí, pero las sombras parecían enormes. Mamá recordó que estaban cerca del arroyo, y que desde allí podían seguir el sonido del agua hasta el puente.
+—¿Y si no encontramos el puente? —preguntó.
 
-Entonces escucharon un zumbido muy bajito. Venía de un montón de hojas.
+Papá sacó el farol que llevaban para el regreso. —El camino está aquí. Oímos el arroyo y sabemos que el puente queda después de la curva.
 
-Emma quiso quedarse junto a papá. Luego vio una lucecita apagada que se movía dentro de las hojas.
+De un montón de hojas salió un zumbido bajito. Emma distinguió un punto amarillo que se encendía y se apagaba bajo una hoja pegada al suelo.
 
-—Quizá alguien necesita ayuda —dijo.
+—Hay una luciérnaga ahí —dijo—. Creo que no puede salir.
 
-Papá sostuvo la linterna. Emma se acercó despacio, sin meter la mano. Una luciérnaga se había quedado pegada a una hoja mojada. Con una ramita seca, Emma levantó el borde de la hoja.
+Papá le pasó el farol. Emma lo dejó sobre una piedra y, sin tocar al insecto, levantó la hoja mojada con una ramita seca.
 
-La luciérnaga salió volando, pero seguía sin brillar.
+La luciérnaga salió de debajo. Voló hasta otra hoja y su luz tembló un instante, como una vela diminuta. Emma soltó el aire que había estado guardando.
 
-—A lo mejor también tiene miedo —susurró Mía.
+—La nuestra sí tiene batería —dijo Mía—. Solo estaba debajo de una manta pegajosa.
 
-Emma respiró hondo. No tenía que dejar de sentir miedo para ayudar. Solo tenía que dar un pasito y mirar con cuidado.
+Mamá miró las hojas aún empapadas. —Después de la lluvia, quizá necesitan un rato para secarse y volver a brillar.
 
-La luciérnaga se posó sobre una piedra. Al cabo de un momento, su luz se encendió: primero pequeña, luego más clara. Desde los árboles respondió otra luz. Después una tercera.
+Primero apareció una luz entre los helechos. Luego otra junto al tronco. De pronto hubo tantas que Mía quiso contarlas y se perdió al llegar a doce.
 
-Pronto el bosque se llenó de puntitos verdes que marcaban el sendero como farolitos. Emma escuchó el arroyo y reconoció el camino al puente.
+Emma escuchó el arroyo. Siguió con la vista el sendero iluminado y reconoció la curva del puente. —Es por allí —dijo, señalando el lugar que papá había descrito.
 
-—¿Ves? —dijo mamá—. Ya sabemos por dónde ir.
+Caminaron juntos, con el farol bajo y las luciérnagas arriba. La oscuridad ya no parecía un gigante; ahora tenía pequeños botones de luz.
 
-Emma caminó en medio de su familia. La oscuridad seguía allí, pero ahora también había luces, voces conocidas y el sonido del agua.
+—Por si acaso, mañana traigo pilas —susurró Mía. Papá sonrió. —Para el farol, estupendo. Para las luciérnagas, mejor dejamos que se encarguen ellas.
 
-Al llegar a casa, Mía preguntó si las luciérnagas se habían despertado por la ayuda de Emma.
-
-—Quizá solo necesitaban tiempo —dijo Emma—. Como yo.
-
-Esa noche, cuando apagaron la lámpara, Emma recordó las pequeñas luces del bosque. El miedo no había desaparecido de golpe. Se había hecho más pequeño con cada paso, hasta dejar sitio a la calma.
+Al llegar a casa, Emma miró una última vez hacia el bosque. Había tenido miedo, había pedido compañía y también había ayudado a alguien más pequeño que ella.

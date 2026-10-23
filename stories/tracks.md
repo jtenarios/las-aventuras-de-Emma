@@ -11,40 +11,40 @@ altMiddle: Emma y Mía siguen las huellas luminosas entre helechos y piedras del
 imageEnd: tracks-fin.webp
 altEnd: Una luciérnaga guía a Emma y Mía de regreso a casa bajo un cielo estrellado.
 ---
-Aquella tarde, Emma encontró tres puntitos azules junto a la puerta del jardín. Brillaban como si alguien hubiera dejado caer trocitos de cielo.
+Al atardecer, Emma encontró unas huellas azules junto a la puerta del jardín. Tenían forma de patitas y brillaban en los charcos como trocitos de cielo.
 
-—¡Huellas misteriosas! —susurró.
+—¿Las ha dejado un dragón con zapatillas? —preguntó Mía.
 
-Mía se puso las botas. Emma tomó una libreta y dibujó los puntitos. No quería perder ninguna pista.
+Emma sacó su libreta. Dibujó una huella, contó sus marcas y trazó una flecha. Si había más, haría un mapa.
 
-La primera huella estaba junto a una maceta. La segunda, al lado del cobertizo. La tercera llegaba hasta el sendero del bosque. Emma dibujó una flecha en su mapa.
+Las patitas pasaban junto a la maceta, rodeaban el cobertizo y salían hacia el sendero conocido del bosque. En cada charquito brillaban un poco más.
 
-—Podría ser un dragón diminuto —dijo Mía.
+Mamá Rocío les dio una linterna y una regla: volver antes de que se hiciera de noche. —Y si encontráis al dragón, decidle que se limpie las patas antes de entrar —añadió.
 
-—O una estrella que se ha caído —contestó Emma.
+Las hermanas avanzaron juntas. Emma marcó en el mapa una raíz grande y una piedra con forma de pan. Mía quiso marcar también una seta que parecía llevar sombrero.
 
-Mamá Rocío les recordó que no se alejaran del sendero conocido y que regresaran antes de que oscureciera del todo. Las hermanas siguieron juntas, marcando cada curva en el mapa.
+—Las setas no se mueven —dijo Emma.
 
-Las huellas cruzaban una raíz, rodeaban un charco y desaparecían sobre una piedra lisa.
+—Precisamente. Así será fácil encontrarla mañana.
 
-—Se acabó el rastro —dijo Mía.
+Las huellas cruzaron un trecho de tierra húmeda y se escondieron entre los helechos. Emma se agachó. Allí estaban otra vez, pequeñas y azules.
 
-Emma observó la piedra. En un borde había una gota brillante. Luego vio otra en una hoja alta. Las marcas no estaban en el suelo: quien las dejaba podía volar.
+—Son patas de verdad —dijo—. Pero aún no sabemos de quién.
 
-Las hermanas miraron alrededor. Un destello azul apareció entre los helechos. Después otro, más lejos.
+Una luz pasó sobre sus cabezas. Era una luciérnaga. Mía levantó la mano para saludarla, pero Emma miró el suelo: aquella lucecita volaba; no podía haber dejado las cuatro marcas de cada huella.
 
-—¡Vamos a seguirlo! —dijo Mía.
+El cielo se oscureció. Las hermanas oyeron un crujido detrás de un helecho. Emma quiso mirar, pero recordó la promesa a mamá y señaló el camino de vuelta.
 
-Emma miró el mapa. El bosque ya estaba oscuro y la casa quedaba a sus espaldas. Recordó lo que había dicho mamá: al llegar la noche, volverían por el camino conocido.
+—El misterio puede esperar hasta mañana. Nosotras, no.
 
-—Primero regresamos —decidió—. Mañana podemos buscar con mamá.
+La luciérnaga revoloteó delante de ellas. Cada vez que dudaban en una curva, se posaba sobre una rama, como una pequeña farola con alas.
 
-Entonces una lucecita se posó en el mapa. Era una luciérnaga, con el abdomen encendido de azul verdoso. Despegó y voló hacia el sendero de casa.
+—Nuestro mapa tiene ayudante —dijo Mía—. ¡Y no pide pilas!
 
-Emma y Mía caminaron despacio detrás de ella. Cada vez que dudaban, la luciérnaga esperaba sobre una rama. Al llegar al jardín, mamá las recibió con una linterna y una sonrisa.
+En la puerta del jardín, mamá las recibió con su linterna. Emma le enseñó el mapa y dibujó también a la luciérnaga, esta vez sin añadirle patas de dragón.
 
-—¡Ya sabemos quién dejó las huellas! —dijo Emma.
+A la mañana siguiente volvieron las tres al sendero. Cerca de los helechos, un erizo salió de entre unas flores azules. Llevaba polvo brillante en las cuatro patitas.
 
-La luciérnaga dio una vuelta alrededor de las hermanas y se perdió entre las flores. Emma añadió su dibujo al mapa: una lucecita con alas.
+—¡El dueño de las zapatillas luminosas! —gritó Mía. El erizo se hizo una bola y Emma esperó en silencio a que volviera a asomar la nariz.
 
-Al día siguiente, las tres volvieron al jardín con mamá. Encontraron más luciérnagas, pero ninguna huella en el suelo. Emma sonrió. A veces una buena pista no solo descubre un misterio: también enseña el camino de vuelta.
+Emma completó su mapa con un erizo y una flor. Dejó un espacio en blanco por si aparecía otro misterio. Mía dibujó allí una seta con sombrero: no pensaba olvidarse de ella.

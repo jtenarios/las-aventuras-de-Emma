@@ -1,5 +1,5 @@
 import { HttpClient } from '@angular/common/http';
-import { Component, inject, signal } from '@angular/core';
+import { Component, ElementRef, ViewChild, inject, signal } from '@angular/core';
 
 interface StoryIllustration {
   position: 'start' | 'middle' | 'end';
@@ -18,12 +18,16 @@ interface StoryOption {
   illustrations: StoryIllustration[];
 }
 
+interface StoryPage {
+  blocks: StoryBlock[];
+}
+
 type StoryBlock =
   | { type: 'paragraph'; text: string }
-  | { type: 'image'; src: string; alt: string; position: StoryIllustration['position'] };
+  | { type: 'image'; image: StoryIllustration };
 
 interface Story extends StoryOption {
-  blocks: StoryBlock[];
+  pages: StoryPage[];
 }
 
 @Component({
@@ -32,15 +36,24 @@ interface Story extends StoryOption {
   templateUrl: './app.html',
 })
 export class App {
+  @ViewChild('book') private bookRef?: ElementRef<HTMLElement>;
   private readonly http = inject(HttpClient);
   readonly options = signal<StoryOption[]>([]);
   readonly selectedId = signal('kite');
   readonly story = signal<Story | null>(null);
+  readonly pageIndex = signal(0);
   readonly error = signal('');
   readonly readingStyle = signal<'print' | 'uppercase' | 'cursive'>('cursive');
+  readonly showFontTip = signal(true);
   readonly optionIcons = ['🪁', '🔎', '🍃', '🥾', '✨', '🐸', '🌳', '🐌', '🌙', '🔘'];
+  private readonly fontTipKey = 'emma-font-tip-seen-v1';
 
   constructor() {
+    try {
+      this.showFontTip.set(localStorage.getItem(this.fontTipKey) !== '1');
+    } catch {
+      this.showFontTip.set(true);
+    }
     this.http.get<StoryOption[]>('stories/index.json').subscribe({
       next: (options) => {
         this.options.set(options);
@@ -56,27 +69,64 @@ export class App {
     const selected = this.options().find((option) => option.id === this.selectedId());
     if (!selected) return;
 
-    const middle = selected.illustrations.find((illustration) => illustration.position === 'middle');
-    const blocks: StoryBlock[] = [];
-    const start = selected.illustrations.find((illustration) => illustration.position === 'start');
-    const end = selected.illustrations.find((illustration) => illustration.position === 'end');
-    if (start) blocks.push({ type: 'image', src: start.src, alt: start.alt, position: start.position });
-    selected.paragraphs.forEach((text, index) => {
-      blocks.push({ type: 'paragraph', text });
-      if (middle && index + 1 === middle.afterParagraph) {
-        blocks.push({ type: 'image', src: middle.src, alt: middle.alt, position: middle.position });
+    const start = selected.illustrations.find((image) => image.position === 'start');
+    const middle = selected.illustrations.find((image) => image.position === 'middle');
+    const end = selected.illustrations.find((image) => image.position === 'end');
+    if (!start || !middle || !end) {
+      this.error.set('Faltan ilustraciones de este cuento.');
+      return;
+    }
+
+    const length = selected.paragraphs.length;
+    const breaks = [0, Math.ceil(length / 3), Math.ceil((length * 2) / 3), length];
+    const pages: StoryPage[] = [0, 1, 2].map((pageNumber) => {
+      const blocks: StoryBlock[] = [];
+      if (pageNumber === 0) blocks.push({ type: 'image', image: start });
+      for (let index = breaks[pageNumber]; index < breaks[pageNumber + 1]; index++) {
+        blocks.push({ type: 'paragraph', text: selected.paragraphs[index] });
+        if (index + 1 === middle.afterParagraph) blocks.push({ type: 'image', image: middle });
+        if (index + 1 === end.afterParagraph) blocks.push({ type: 'image', image: end });
       }
+      return { blocks };
     });
-    if (end) blocks.push({ type: 'image', src: end.src, alt: end.alt, position: end.position });
 
     this.story.set({
       ...selected,
-      blocks,
+      pages,
     });
+    this.pageIndex.set(0);
+    this.error.set('');
+    this.scrollToBook();
   }
 
   selectStory(id: string): void {
     this.selectedId.set(id);
     this.story.set(null);
+    this.pageIndex.set(0);
+  }
+
+  goToPage(index: number): void {
+    const story = this.story();
+    if (!story || index < 0 || index >= story.pages.length) return;
+    this.pageIndex.set(index);
+    this.scrollToBook();
+  }
+
+  setReadingStyle(style: 'print' | 'uppercase' | 'cursive'): void {
+    this.readingStyle.set(style);
+    this.dismissFontTip();
+  }
+
+  dismissFontTip(): void {
+    this.showFontTip.set(false);
+    try {
+      localStorage.setItem(this.fontTipKey, '1');
+    } catch {
+      // La lectura sigue funcionando cuando el navegador impide el almacenamiento local.
+    }
+  }
+
+  private scrollToBook(): void {
+    requestAnimationFrame(() => this.bookRef?.nativeElement.scrollIntoView({ behavior: 'smooth', block: 'start' }));
   }
 }

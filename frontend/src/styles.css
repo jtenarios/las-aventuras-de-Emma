@@ -4,10 +4,15 @@
 @font-face{font-family:'Andika';src:url('./assets/fonts/andika-regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
 @font-face{font-family:'Edu NSW ACT Cursive';src:url('./assets/fonts/edu-nsw-act-cursive-regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
 .reading-style{display:flex;align-items:center;justify-content:flex-end;gap:4px;flex-wrap:wrap}
+.reading-style-wrap{display:flex;flex-direction:column;align-items:flex-end;max-width:100%}
 .reading-style-label{font-size:11px;color:#81877e;font-weight:700;margin-right:3px}
 .reading-style button{border:1px solid #e5e5dc;background:#fff;border-radius:7px;padding:6px 8px;color:#586258;font-size:11px;font-weight:700;cursor:pointer}
 .reading-style button:hover{border-color:#a6b99a}
 .reading-style button.is-active{background:#eef4e9;border-color:#809b72;color:#43653e}
+.font-tip{position:relative;display:flex;align-items:center;gap:12px;max-width:290px;margin-top:11px;padding:10px 12px;border:1px solid #e5d4a7;border-radius:10px;background:#fff8e7;box-shadow:0 5px 14px #49331812;color:#574c32;font-size:12px;line-height:1.45}
+.font-tip:before{content:'';position:absolute;right:32px;top:-6px;width:10px;height:10px;transform:rotate(45deg);border-left:1px solid #e5d4a7;border-top:1px solid #e5d4a7;background:#fff8e7}
+.font-tip button{flex:none;padding:5px 7px;border:0;border-radius:6px;background:#eee2be;color:#554b31;font-size:11px;font-weight:700;cursor:pointer}
+.font-tip button:hover{background:#e7d49f}
 .reading-uppercase h2,.reading-uppercase .story-copy{text-transform:uppercase}
 .reading-cursive h2,.reading-cursive .story-copy{font-family:'Edu NSW ACT Cursive',cursive;font-weight:400}
 .reading-cursive .story-copy{font-size:21px;line-height:1.75}
@@ -15,9 +20,17 @@
 .story-option{min-height:64px}
 .story-illustration{margin:24px 0 27px;overflow:hidden;border-radius:14px;background:#f4efe3;box-shadow:0 8px 20px #49331810}
 .story-illustration img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
+.page-progress{margin:0;color:#788673;font-size:11px;font-weight:800;letter-spacing:.7px;text-transform:uppercase}
+.page-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:30px;padding-top:21px;border-top:1px solid #eee7dc}
+.page-button{min-width:112px;border:1px solid #c7d6bd;border-radius:9px;padding:10px 13px;background:#f5f8f0;color:#4f6d49;font-size:12px;font-weight:800;cursor:pointer}
+.page-button:hover:not(:disabled){background:#eaf2e4;border-color:#90ad83}
+.page-button:disabled{visibility:hidden}
+.page-button-next{background:#55794f;border-color:#55794f;color:#fff}
+.page-button-next:hover:not(:disabled){background:#456c41;border-color:#456c41}
+.page-count{color:#7c857a;font-size:12px;font-weight:700;white-space:nowrap}
 .question-prompt{margin:27px 0 8px;padding:17px 20px;border-left:3px solid #8da67d;border-radius:0 12px 12px 0;background:#f5f7ef}
 .question-prompt span{font:800 11px Arial,sans-serif;letter-spacing:.7px;text-transform:uppercase;color:#69815e}
 .question-prompt p{font-family:'Andika',Arial,sans-serif;font-size:16px;line-height:1.6;color:#455342;margin:7px 0 0}
 @media(max-width:800px){.story-options{max-height:430px}.story-illustration{margin:21px 0 24px}}
 @media(max-width:520px){.story-options{max-height:390px}.story-illustration{margin:18px 0 21px;border-radius:11px}.question-prompt{padding:14px 16px}.question-prompt p{font-size:15px}}
-@media(max-width:520px){.book-heading{align-items:flex-start;flex-direction:column}.reading-style{justify-content:flex-start;width:100%;gap:5px}.reading-style button{padding:7px 9px}.reading-cursive .story-copy{font-size:20px}}
+@media(max-width:520px){.book-heading{align-items:flex-start;flex-direction:column}.reading-style-wrap{align-items:flex-start;width:100%}.reading-style{justify-content:flex-start;width:100%;gap:5px}.reading-style button{padding:7px 9px}.font-tip:before{right:auto;left:36px}.reading-cursive .story-copy{font-size:20px}.page-controls{gap:7px}.page-button{min-width:0;padding:10px 9px;font-size:11px}}

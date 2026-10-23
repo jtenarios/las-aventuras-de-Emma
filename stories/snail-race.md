@@ -7,44 +7,42 @@ question: ¿Qué podría hacer Emma para que la carrera sea divertida para todos
 imageStart: snail-race-inicio.webp
 altStart: Emma coloca una cinta de salida para una carrera de caracoles en el jardín.
 imageMiddle: snail-race-medio.webp
-altMiddle: Emma cambia las reglas para animar a los caracoles que avanzan despacio.
+altMiddle: Emma y su familia observan a los caracoles cruzar hojas, un puente de ramitas y un túnel de corteza.
 imageEnd: snail-race-fin.webp
-altEnd: Emma y sus amigos celebran una carrera con medallas de hojas para todos.
+altEnd: Emma, Mía y Jaime celebran la llegada de varios caracoles con hojas a modo de medallas.
 ---
-Emma organizó una carrera en el jardín. La salida estaba junto a una margarita y la meta, al lado de la regadera azul.
+Emma puso una cinta de cuadros en el jardín. La salida quedaba junto a una margarita; la meta, a solo unos pasos de la regadera.
 
-—¡Preparados, listos… ya! —dijo.
+—¡Comienza la gran carrera! —anunció con voz de presentadora.
 
-Salieron tres caracoles. El primero avanzó un poquito. El segundo se quedó mirando una hoja. El tercero subió a la línea de salida y se sentó allí mismo.
+Tres caracoles asomaron los cuernos. Uno avanzó un poquito. Otro se detuvo junto a una hoja. El tercero parecía estudiar la cinta por si había que firmarla.
 
-—¡Qué carrera tan lenta! —dijo un escarabajo.
+—A este ritmo nos dará tiempo a merendar dos veces —dijo papá Jaime. Mía preguntó si eso era una promesa.
 
-Emma se impacientó. Ella quería verlos llegar. Dio un golpecito al suelo para animarlos. Los caracoles se escondieron dentro de sus conchas.
+Emma dio un golpecito al suelo para animarlos. Los tres se escondieron en sus conchas.
 
-—Creo que no les gusta que los apuremos —dijo Mía.
+—Creo que no les gustan los aplausos con terremoto —susurró Mía.
 
-Emma se sentó junto al camino. Esperó. Una hormiga cruzó llevando una miga. Un caracol asomó los cuernos. Luego avanzó un poquito más.
+Emma se sentó y esperó sin tocarlos. Poco a poco asomaron de nuevo. Entonces vio que el camino estaba seco y a pleno sol.
 
-—¡Mira! —susurró Mía.
+Con ayuda de papá y mamá, colocó hojas frescas en la sombra, un puente corto de ramitas y un túnel hecho con corteza caída. La nueva meta quedó más cerca.
 
-Emma observó el recorrido. Era una línea recta y seca. Quizá a los caracoles les resultaba aburrida. Con hojas y piedritas, dibujó un camino con curvas, un túnel de hierba y una pequeña cuesta.
+Un cuarto caracol apareció atraído por las hojas. Emma levantó la cinta para que pudiera unirse. —Ahora ganará quien nos enseñe algo que no habíamos visto.
 
-—Ahora no gana quien llega primero —anunció—. Ganará quien descubra algo interesante por el camino.
+El primero cruzó una hoja como si fuera una alfombra. Otro se detuvo bajo el túnel. El más pequeño probó el puente de ramitas y dejó detrás una línea brillante.
 
-El primer caracol encontró una gota de rocío. El segundo pasó bajo una hoja que parecía un paraguas. El tercero subió la cuesta y dejó una línea brillante detrás de sí.
+Mía descubrió una gota de agua escondida bajo una hoja. —¡Parece que el caracol lleva un espejo en el camino!
 
-—¡Yo he encontrado una piedra calentita! —dijo Mía, señalando a un caracol.
+Emma quiso ayudar al último, pero dejó la hoja fresca a su lado en lugar de empujarlo. El caracol eligió por sí mismo cuándo salir.
 
-Emma quiso ayudar al que iba último, pero recordó no tocarlo. En vez de empujarlo, acercó una hoja fresca a su lado. El caracol salió y siguió avanzando a su ritmo.
+Una mariquita se posó en la regadera. El escarabajo del jardín empezó a narrar: —¡Increíble adelantamiento de medio centímetro!
 
-Mientras tanto, los demás animales empezaron a acompañar la carrera. Una mariquita contó los pasos. El escarabajo narró cada curva. Las hormigas hicieron una ola con sus patas.
+Más caracoles se asomaron entre las flores. No habían estado en la salida, pero Emma abrió el circuito para ellos. La carrera se convirtió en un paseo con muchos participantes.
 
-Cuando el primer caracol llegó a la regadera, los otros aún estaban en el túnel. Nadie se marchó. Emma y Mía los esperaron, contando historias de cada descubrimiento.
+Cuando el primero llegó a la meta, los demás seguían explorando el túnel. Nadie se marchó. Papá trajo la merienda prometida y Mía le recordó que había hablado de dos.
 
-Al final, Emma entregó medallas hechas de hojas. Cada caracol recibió una, porque todos habían recorrido el camino completo.
+Emma puso hojas pequeñas cerca de cada caracol, como medallas que podían llevarse si querían. Mía aplaudió muy despacio, con un dedo contra otro.
 
-—No fue rápida —dijo Emma.
+—¿Quién ganó? —preguntó papá.
 
-—Pero vimos mucho —respondió Mía.
-
-Emma miró las pequeñas líneas brillantes que cruzaban el jardín. A veces, cuando se va despacio, el mundo tiene más tiempo para enseñarte sus cosas.
+—Aún no lo sé —dijo Emma—. ¡Estoy mirando cómo uno baja del puente marcha atrás! Se quedaron un rato más, viendo caminos que antes les habían pasado inadvertidos.

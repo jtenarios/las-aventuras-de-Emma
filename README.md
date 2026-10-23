@@ -2,7 +2,11 @@
 
 Aplicación estática de lectura en familia. Está construida con Angular y publica los cuentos desde archivos Markdown, sin servidor FastAPI ni API de generación.
 
+Cada cuento se lee en tres páginas. Las ilustraciones mantienen su ubicación narrativa y la última página incluye una pregunta para conversar. La letra ligada aparece seleccionada al abrir la app; imprenta y mayúsculas están disponibles en el lector. Una ayuda inicial indica dónde cambiarla y desaparece para ese navegador al cerrarla o usar el selector.
+
 Consulta [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) para las decisiones de personajes, estilo narrativo, ilustración y producto al retomar el proyecto.
+
+Al escribir nuevos cuentos, busca una aventura divertida y curiosa, con humor que puedan disfrutar los niños y alguna observación cómplice para quien lee en voz alta. Emma es fija, pero no es necesario que aparezca toda la familia en cada historia. Comprueba que cada escena y sus objetos coincidan con las ilustraciones.
 
 ## Desarrollo local
 

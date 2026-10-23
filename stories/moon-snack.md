@@ -7,46 +7,42 @@ question: ¿Qué compartirías con alguien que llega de visita sin avisar?
 imageStart: moon-snack-inicio.webp
 altStart: Emma mira por la ventana y ve la luna baja y brillante sobre el jardín.
 imageMiddle: moon-snack-medio.webp
-altMiddle: Emma y Mía preparan una merienda sencilla para la luna en una manta del jardín.
+altMiddle: Emma y su familia comparten manzana y galletas sobre una manta bajo la luna.
 imageEnd: moon-snack-fin.webp
-altEnd: La familia comparte galletas bajo la luna mientras las estrellas brillan.
+altEnd: La familia termina su picnic nocturno con fruta, galletas y faroles bajo la luna.
 ---
-Una noche, Emma miró por la ventana y vio la luna muy baja sobre el jardín. Parecía asomarse para ver qué ocurría en casa.
+Emma estaba en pijama cuando vio la luna por la ventana. Parecía enorme y tan baja sobre el jardín que casi podía sentarse en la cerca.
 
-—Creo que la luna tiene hambre —dijo Emma.
+—Creo que quiere venir a merendar —dijo.
 
-Mía miró su plato. Solo quedaban dos galletas.
+Mía miró la bandeja de la cocina. Quedaban dos galletas y una manzana. —¡Pues tenemos sitio!
 
-—Podemos invitarla a merendar.
+Papá Jaime abrió la nevera. Sacó más fruta, unos trocitos de queso y zanahorias. —Para una invitada tan grande, quizá necesitemos una mesa muy larga.
 
-Emma puso una manta en el jardín. Papá Jaime llevó agua. Mamá Rocío cortó una manzana en trozos. Las hermanas pusieron las dos galletas en un plato.
+—O una manta —propuso Emma. Se quitó el pijama, se puso su chaqueta y llevó la manta al jardín con Mía.
 
-—¿Y si la luna no puede bajar? —preguntó Mía.
+Mamá Rocío cortó la manzana. Papá llevó vasos de agua y dos faroles. Las niñas dejaron un plato pequeño en el centro para la invitada.
 
-Emma dejó el plato sobre una piedra alta. La luna brilló, pero no se movió.
+—¿Cómo bajará la luna? —preguntó Mía.
 
-—Tal vez no sabe cómo llegar —dijo Emma.
+Emma miró el cielo. —Tal vez no tenga que bajar. Podemos contarle lo que comemos desde aquí.
 
-Las niñas hicieron un camino de pétalos desde la puerta hasta el plato. Después esperaron. Una nube pasó delante de la luna y la tapó por completo.
+Se sentaron juntos. Emma partió una galleta en trozos para todos y levantó uno hacia la luna. Su luz brillaba sobre la manta, las manzanas y los vasos.
 
-—Se ha ido —dijo Mía.
+Entonces una nube pasó por delante y la escondió. —¡Se ha marchado justo al servir! —protestó Mía. Papá miró su vaso. —Espero que no sea por la vajilla. He elegido los mejores vasos de agua.
 
-Emma sintió un poco de pena. Habían preparado todo con cuidado. Entonces un rayo plateado volvió a asomarse entre las nubes. La luna seguía allí, solo estaba escondida.
+Emma dejó un trocito de galleta en el plato de la luna. Después comenzó una historia: una luna viajera buscaba un jardín donde descansar sus rayos.
 
-—Podemos merendar nosotras mientras esperamos —propuso mamá.
+Mía añadió que la luna llevaba estrellas en los bolsillos. Mamá dijo que, si los vaciaba sobre la manta, luego habría que recogerlas una por una.
 
-Emma partió una galleta por la mitad. Una mitad para Mía, otra para ella. Papá compartió la manzana. Mamá sirvió el agua. Dejaron un trocito de todo en el plato para la visita.
+Mientras hablaban, compartieron manzana, zanahorias y queso. La nube se apartó y la luz plateada cayó justo sobre el plato pequeño.
 
-Mientras comían, Emma contó una historia sobre una luna que buscaba una casa donde descansar. Mía añadió que la luna tenía un bolsillo lleno de estrellas.
+—¡Ha vuelto! —dijo Emma. Le contó a la luna cuál había sido su parte favorita de la historia y escuchó la que inventaba Mía.
 
-La nube se apartó. La luz plateada cayó sobre el jardín y el plato. La galleta parecía tener un borde de brillo.
+Mía miró el último trocito de galleta. Emma vio sus ganas y se lo ofreció. —Creo que a nuestra invitada le gustará que compartamos.
 
-—Creo que le ha gustado —susurró Mía.
+Mía lo aceptó. La luna iluminó las miguitas que quedaron en el plato, y papá anunció que la merienda había tenido más público del que cabía en la manta.
 
-No vieron a la luna comer. Pero, cuando recogieron, el plato estaba vacío. ¿Se lo había llevado el viento? ¿Un pajarito? ¿O la propia luna?
+Cuando recogieron, el plato estaba vacío. —¡La luna se lo ha comido! —susurró Mía. Emma vio unas migas en el bigote de su hermana y sonrió sin decir nada.
 
-Emma nunca lo supo. Al día siguiente encontró unas miguitas junto a la piedra y una pluma pequeña en la hierba.
-
-—Quizá tuvimos otro invitado —dijo papá.
-
-Emma sonrió. Compartir no siempre significa que alguien se lleve algo. A veces también significa guardar un sitio, ofrecer compañía y hacer que todos se sientan bienvenidos.
+Antes de entrar, las dos saludaron al cielo. La luna seguía allí, redonda y brillante, como si hubiera disfrutado de un sitio reservado en la mesa.

@@ -7,48 +7,42 @@ question: ¿Qué sonidos podrías juntar para inventar una canción en equipo?
 imageStart: river-inicio.webp
 altStart: Emma oye una melodía extraña junto al río y se asoma desde un puente seguro.
 imageMiddle: river-medio.webp
-altMiddle: Emma escucha a una rana, un pato y un castor para averiguar por qué suena raro el río.
+altMiddle: Emma y su familia retiran ramas atascadas con ayuda de una nutria y un castor.
 imageEnd: river-fin.webp
-altEnd: Los animales y Emma celebran una canción nueva junto al río despejado.
+altEnd: Emma, una rana, una nutria, una ardilla y un pájaro celebran junto al río despejado.
 ---
-Cada mañana, el río cantaba. Hacía «glu-glu» al pasar entre las piedras y «shhh» cuando rozaba los juncos. Pero aquel día sonaba distinto.
+Cada mañana el río hacía «glu-glu» entre las piedras y «shhh» al rozar los juncos. Aquel día, desde el puente, Emma solo oyó un «glup» seguido de un silencio raro.
 
-—¡El río canta al revés! —dijo Emma.
+—El río tiene hipo —dijo Mía.
 
-En vez de «glu-glu», hacía «glup». En vez de «shhh», sonaba «chof». Emma se sentó en el puente, detrás de la barandilla, para escuchar mejor.
+Emma se asomó por detrás de la barandilla. Una rana esperaba en una piedra y un pato daba vueltas en un remanso.
 
-Una rana saltó a una piedra.
+—Yo canto, pero el agua no me acompaña —croó la rana.
 
-—Yo canto bien —croó—. El problema es que no puedo oír el agua.
+—Y yo llevo tres vueltas sin avanzar —añadió el pato—. Empiezo a conocer demasiado bien esta piedra.
 
-Un pato movió las alas.
+Emma, Mía y sus padres siguieron el sendero de la orilla hasta una curva. Allí, ramas caídas y hojas formaban un atasco entre dos rocas. El agua se amontonaba detrás.
 
-—Yo tampoco. El río está demasiado callado.
+Un castor y una nutria intentaban mover la rama más gruesa desde el lado del agua. El castor alzó las patas. —Antes de que preguntéis: esta presa no la he construido yo.
 
-Emma miró corriente arriba. Algo frenaba el agua. Fue por la orilla con su familia hasta un lugar seguro donde vieron ramas, hojas y una cesta vieja atascadas entre dos rocas. El agua se acumulaba detrás.
+Emma vio que la corriente pasaba con fuerza por debajo. Nadie debía entrar. Señaló un espacio firme de la orilla desde el que podían sujetar las ramas.
 
-—¡Hay que quitarlo! —dijo Emma.
+—Vosotros empujáis desde vuestro lado; nosotros tiramos desde aquí —propuso. Mamá Rocío sacó los guantes que llevaba para recoger basura del sendero y repartió los que tenía.
 
-El castor del río negó con la cabeza.
+Al principio todos tiraron a la vez. Una rama se soltó, las hojas volaron y papá Jaime acabó con un puñado en la cabeza.
 
-—Las ramas son pesadas. Yo puedo empujar, pero no quiero que nadie se meta en el agua.
+—Ahora parezco un arbusto con gafas —dijo. Hasta el castor se rió.
 
-Emma pensó en cómo ayudar desde la orilla. Papá encontró una vara larga. Mamá sujetó una cesta para recoger las hojas. Emma pidió a los animales que acercaran las ramas pequeñas, una a una.
+Emma pidió turnos. La nutria sujetó una rama para que no girase; el castor empujó la punta; papá y mamá tiraron desde la orilla. Emma y Mía llevaron las ramitas sueltas a un montón lejos del agua.
 
-Al principio todos tiraron a la vez y la cesta se volcó. Las hojas volvieron al agua.
+Una rama salió. Luego otra. El pato apartó los juncos con el pico y la rana avisó cada vez que una piedra se movía.
 
-—Esperad —dijo Emma—. Hagamos turnos.
+El agua encontró un hueco. Primero hizo «glu». Después «glu-glu», «shhh» y un «plin» al chocar con las piedras libres.
 
-El castor empujó la rama grande desde tierra firme. Papá la movió con la vara. Emma y Mía recogieron las hojas. El pato apartó los juncos y la rana avisó cuando una piedra se movía.
+—¡Ya no tengo hipo! —croó la rana. La nutria dio una palmada mojada; el castor marcó el ritmo con la cola.
 
-Una rama salió. Luego otra. El agua avanzó un poquito más.
+Un pájaro azul añadió un silbido. Desde la orilla, una ardilla acompañó con dos golpecitos en una piedra. Emma, en un paso de rocas firmes y con papá cerca, levantó los brazos como directora de orquesta.
 
-—Ahora la cesta vieja —dijo Emma.
+—Esta canción no cabe en una partitura —dijo mamá. —Mejor —respondió Emma—. Así cada uno puede poner su sonido.
 
-La sacaron entre todos y la dejaron lejos de la corriente. De pronto el río hizo «glu-glu-glu», luego «shhh», y después un alegre «plin» contra las piedras.
-
-—¡Ha vuelto la canción! —croó la rana.
-
-El pato añadió un graznido. El castor golpeó suavemente el suelo con la cola. Emma marcó el ritmo con las palmas. Cada sonido era distinto, pero juntos formaban una melodía nueva.
-
-Al volver a casa, Emma pensó que el río no necesitaba una sola voz. Necesitaba que cada cual aportara la suya y escuchara a las demás.
+Al regresar por el puente, el pato ya avanzaba río abajo. Dio un graznido de despedida que sonó, por fin, diferente al «glup» de la mañana.

@@ -5,48 +5,44 @@ title: El camino de las dos señales
 value: Autonomía
 question: ¿Qué harías tú antes de elegir un camino que no conoces?
 imageStart: path-inicio.webp
-altStart: Emma observa dos señales de madera en un sendero del bosque con su pequeña mochila.
+altStart: Emma observa dos señales de madera gastadas en una bifurcación del bosque.
 imageMiddle: path-medio.webp
 altMiddle: Emma compara el mapa con las señales mientras su familia la acompaña a distancia.
 imageEnd: path-fin.webp
-altEnd: Emma llega al mirador y comparte una manzana con su familia.
+altEnd: Emma comparte manzanas con su familia en un mirador sobre el río.
 ---
-Emma llevaba su mochila verde para el paseo. Dentro guardaba una botella, una manzana y un mapa que papá Jaime había dibujado.
+Emma llevaba una mochila verde con agua y un mapa que papá Jaime había dibujado. La familia quería llegar a un mirador desde el que se veía el río.
 
-—Hoy tú puedes guiarnos hasta el mirador —dijo papá—. Yo iré cerca por si necesitas ayuda.
+—Hoy nos guías tú —dijo papá—. Si dudas, paramos juntos.
 
-Emma caminó delante. El sendero olía a pino y a tierra húmeda. Pronto llegaron a una bifurcación. Dos señales apuntaban en direcciones distintas.
+Emma caminó delante. El sendero olía a pino y a tierra húmeda. Muy pronto aparecieron dos caminos y dos señales de madera tan gastadas que desde lejos parecían vacías.
 
-Una decía: «Río». La otra: «Mirador». Pero la flecha del mirador estaba un poco torcida.
+—Yo elegiría el de la derecha —dijo Mía—. Parece que va a una merienda.
 
-—¿Cuál elegimos? —preguntó Mía.
+—En mi mapa no sale ninguna merienda —respondió Emma. Miró el dibujo: una línea pasaba junto a tres pinos y la otra subía hacia una montaña.
 
-Emma miró el mapa. El mirador debía quedar al este, donde salía el sol. Miró el cielo y después la señal. No estaba segura.
+Una rama tapaba parte de las señales. Emma se acercó sin salir del sendero y la apartó. En una tablilla vio tres pinos; en la otra, una montaña bajo un sol.
 
-—Podemos adivinar —dijo Mía.
+—El mirador está arriba —pensó en voz alta—. Pero ¿por qué la línea del mapa pasa primero junto a los pinos?
 
-Emma notó cosquillas en la barriga. Quería acertar sin ayuda, pero el mapa tenía una mancha justo en esa parte.
+Papá se inclinó a su lado. —Buena pregunta. El mapa tiene una curva pequeña que casi escondí debajo de mi mancha de zumo.
 
-—Voy a mirar mejor —dijo.
+—¡Un mapa con merienda! —celebró Mía.
 
-Se acercó a las señales. La flecha del mirador no estaba rota: una enredadera la había empujado. Emma apartó las hojas con cuidado. La flecha volvió a señalar hacia el este.
+Emma siguió la curva con el dedo. El sendero de los pinos daba un rodeo; el de la montaña subía directamente. Eligió la subida y guardó el mapa para comprobarlo más adelante.
 
-—Ya lo veo. Pero quiero comprobarlo con el mapa.
+Tras unos pasos encontraron una piedra redonda dibujada en el mapa. Emma la reconoció y sonrió: iban bien. Después vieron un pino con copa de paraguas.
 
-Papá se acercó y sostuvo el mapa junto a la señal. Las dos cosas coincidían. Mamá Rocío señaló una marca pequeña: después de la curva había un pino con forma de paraguas.
+—Si llueve, ya tenemos techo —dijo mamá Rocío, mirando las ramas.
 
-Emma encontró el pino. Allí el camino se dividía otra vez, pero esta vez la marca del mapa era clara. Ella eligió la senda de la izquierda.
+En la siguiente bifurcación no había señales. Emma volvió a sacar el mapa y comparó la forma del camino con el río que se veía entre los árboles.
 
-—¿Segura? —preguntó papá.
+—Por aquí —decidió—. Y si no aparece la roca grande, regresamos a este pino.
 
-—Sí. Y si me equivoco, paramos y volvemos a mirar.
+La roca apareció al doblar la curva. Más allá se abrió el mirador: el río brillaba abajo como una cinta plateada. Emma llegó la primera, pero esperó para disfrutar de la vista con todos.
 
-El sendero subió entre arbustos. Emma fue contando los pasos hasta el siguiente árbol marcado. No tuvo que contar muchos. Al doblar la curva, apareció el mirador y, debajo, el río brillando como una cinta.
+Mamá sacó una cesta de manzanas y la puso sobre una manta. Papá repartió los trozos; Mía anunció que el camino de la merienda sí existía, aunque no figurara en el mapa.
 
-Emma dejó la mochila y sacó la manzana. La compartió en cuatro trozos.
+—Has sabido elegir —dijo papá.
 
-—Tú encontraste el camino —dijo mamá.
-
-—Lo encontré mirando las señales, usando el mapa y preguntando cuando lo necesitaba —contestó Emma.
-
-De regreso, Emma volvió a guiar al grupo. Esta vez caminaba con una sonrisa tranquila. Ser valiente no era saberlo todo. También era detenerse, pensar y pedir compañía para comprobarlo.
+—Y comprobar —añadió Emma, mordiendo su manzana. De vuelta a casa buscó otra vez el pino con forma de paraguas. Esta vez Mía lo encontró antes que nadie.

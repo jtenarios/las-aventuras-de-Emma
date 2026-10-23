@@ -11,36 +11,38 @@ altMiddle: Emma descubre que la cola de la cometa está enredada mientras su fam
 imageEnd: kite-fin.webp
 altEnd: La cometa roja vuela alta sobre la pradera y Emma celebra con su familia.
 ---
-El día amaneció con un viento juguetón. Movía las hojas, levantaba las flores caídas y hacía bailar las cortinas de la casa de Emma.
+La cometa roja de Emma colgaba de una rama baja en la colina. Su cola de lazos se había enredado entre las hojas. Abajo, papá Jaime, mamá Rocío y Mía miraban hacia arriba.
 
-—¡Hoy volará mi cometa! —anunció Emma.
+—Parece que el árbol quiere aprender a volar —dijo Mía.
 
-Era roja, con una cola larga llena de lazos. Papá Jaime, mamá Rocío y Mía fueron con ella hasta la colina. Desde allí se veía el bosque, el río y un molino blanco que giraba despacito.
+—Pues tendrá que esperar su turno —respondió Emma—. ¡La cometa es mía!
 
-Emma sujetó el hilo. Corrió cuesta arriba. La cometa se levantó un momento, dio una vuelta en el aire y cayó de hocico entre la hierba.
+Un rato antes, Emma había corrido con el hilo en la mano. La cometa cayó de hocico entre las flores. Lo intentó otra vez, cambió de dirección y una ráfaga la levantó hasta el árbol. ¡Fiuuu! Allí se quedó.
 
-—El viento no me ha visto —dijo Emma.
+Emma dio un tironcito al hilo. La rama se movió, pero la cometa no.
 
-Mía soltó una risita. Papá señaló las nubes: el viento empujaba desde el otro lado.
+—Si tiramos más fuerte, quizá baje —propuso.
 
-Emma cambió de dirección y corrió de nuevo. Esta vez la cometa subió hasta una rama baja. ¡Fiuuu! El hilo se quedó atrapado.
+Mamá Rocío negó con suavidad. —O quizá vuelva hecha confeti. Miremos dónde está atrapada.
 
-—Podemos tirar fuerte —dijo Emma.
+Emma rodeó el tronco. Desde una roca firme vio que solo un lazo sujetaba la cola. Los demás se mecían libres.
 
-—O mirar primero —propuso mamá.
+—Necesito llegar a ese lazo, no a toda la cometa —dijo.
 
-Emma se acercó con cuidado. La cola se había enredado en una ramita. Tirar podía romperla. Papá sostuvo la escalera pequeña mientras Emma liberaba los lazos uno a uno. Mía recogió las hojas que se pegaban al papel.
+Papá comprobó que la roca no se movía y sostuvo a Emma por la cintura mientras ella se estiraba. Mamá vigiló la cuerda. Mía recibió los lazos que Emma fue soltando uno a uno.
 
-La cometa volvió a estar libre, pero el viento había desaparecido. Emma esperó. Un minuto. Dos. La hierba apenas se movía.
+—¡Rescate completado! —anunció Mía—. ¿Quién rescata ahora al viento?
 
-—¿Y si hacemos nuestro propio viento? —preguntó.
+En efecto, el viento había desaparecido. Emma esperó. Un minuto. Dos. Ni una hoja se movía. Papá se sentó en la hierba y dijo que quizá el viento se había tomado la tarde libre.
 
-Los cuatro corrieron juntos cuesta abajo. La cometa saltó, se inclinó y rozó el suelo. Emma notó que corría demasiado deprisa. Lo intentó otra vez, esta vez con pasos tranquilos y el hilo suelto entre los dedos.
+—Podemos correr y fabricarle un poquito —propuso Emma.
 
-Una brisa pequeñita llegó desde el río. La cometa tembló. Emma corrió. El papel rojo se infló y subió, primero por encima de la colina y luego hasta el cielo azul.
+Los cuatro bajaron la colina. La cometa dio un salto y rozó el suelo. Emma notó que llevaba el hilo demasiado tenso. Volvió a empezar, esta vez con pasos tranquilos y un poco de cuerda suelta.
 
-—¡No la empujé! —exclamó Emma—. Esperé a que el viento quisiera jugar.
+Una brisa llegó desde el río. Emma vio moverse las flores antes de sentirla en la cara. Giró hacia ella y echó a correr.
 
-Mía dio palmadas. Papá y mamá levantaron la vista. La cometa dibujó una curva enorme, como una sonrisa roja sobre el bosque.
+El papel rojo se infló. La cometa subió por encima del árbol, luego por encima de sus orejas y, al fin, muy alto en el cielo. Mía dio palmadas como si quisiera empujarla desde abajo.
 
-Al volver a casa, Emma guardó el hilo con cuidado. No había ganado al viento. Había aprendido a observarlo, probar y volver a empezar.
+—Ahora sí que trabaja —dijo papá, mirando la cometa—. Espero que no pida vacaciones otra vez.
+
+Cuando el sol empezó a bajar, Emma recogió el hilo despacio. La cola seguía entera y la cometa llevaba una hoja pequeña prendida en un lazo: un recuerdo del árbol que había querido volar.
